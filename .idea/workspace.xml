@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="972f8659-13b8-412b-b128-5bbf7cedeeb2" name="Default Changelist" comment="HomeWork #2 (dln:2020/10/07)">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__3_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2020_11_17_PM_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2020_11_17_PM__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorkk2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork2/HomeWork2p2/Sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork2/HomeWork2p2/Task1p1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork2/HomeWork2p2/Task1p2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork2/HomeWork2p2/Task1p3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork2/HomeWork2p2/Task1p4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork2/HomeWork2p2/Task1p5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork2/HomeWork2p2/Task1p5v2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork2/HomeWork2p2/Task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork2/HomeWork2p2/Task2p3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeWork2/HomeWork2p2/Task4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork2p2/Task1p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork2p2/Task1p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork2p2/Task1p3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork2p2/Task1p4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork2p2/Task1p5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork2p2/Task1p5v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork2p2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork2p2/Task2p3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork2p2/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task6.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iEuvpgIG0IHvDLbMNfbdcbDzpR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="Task1p2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork2p2.Task1p2" />
+      <module name="HomeWork2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork2p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1p5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork2p2.Task1p5" />
+      <module name="HomeWork2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork2p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1p5v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork2p2.Task1p5v2" />
+      <module name="HomeWork2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork2p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork2p2.Task2" />
+      <module name="HomeWork2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork2p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2p3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork2p2.Task2p3" />
+      <module name="HomeWork2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork2p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1p5v2" />
+        <item itemvalue="Application.Task1p5" />
+        <item itemvalue="Application.Task2p3" />
+        <item itemvalue="Application.Task1p2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="972f8659-13b8-412b-b128-5bbf7cedeeb2" name="Default Changelist" comment="" />
+      <created>1601485308603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601485308603</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HomeWork #2 (dln:2020/10/07)" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork #2 (dln:2020/10/07)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="217" key="GridCell.Tab.0.bottom" timestamp="1602015981456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602015981456" />
+    <state width="3762" height="577" key="GridCell.Tab.0.bottom/0.0.3840.2104@0.0.3840.2104" timestamp="1601735593486" />
+    <state width="1322" height="217" key="GridCell.Tab.0.center" timestamp="1602015981456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602015981456" />
+    <state width="3762" height="577" key="GridCell.Tab.0.center/0.0.3840.2104@0.0.3840.2104" timestamp="1601735593485" />
+    <state width="1322" height="217" key="GridCell.Tab.0.left" timestamp="1602015981456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602015981456" />
+    <state width="3762" height="577" key="GridCell.Tab.0.left/0.0.3840.2104@0.0.3840.2104" timestamp="1601735593485" />
+    <state width="1322" height="217" key="GridCell.Tab.0.right" timestamp="1602015981456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602015981456" />
+    <state width="3762" height="577" key="GridCell.Tab.0.right/0.0.3840.2104@0.0.3840.2104" timestamp="1601735593485" />
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1602015981456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602015981456" />
+    <state width="3762" height="713" key="GridCell.Tab.1.bottom/0.0.3840.2104@0.0.3840.2104" timestamp="1601733376282" />
+    <state width="1322" height="217" key="GridCell.Tab.1.center" timestamp="1602015981456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602015981456" />
+    <state width="3762" height="713" key="GridCell.Tab.1.center/0.0.3840.2104@0.0.3840.2104" timestamp="1601733376282" />
+    <state width="1322" height="217" key="GridCell.Tab.1.left" timestamp="1602015981456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602015981456" />
+    <state width="3762" height="713" key="GridCell.Tab.1.left/0.0.3840.2104@0.0.3840.2104" timestamp="1601733376282" />
+    <state width="1322" height="217" key="GridCell.Tab.1.right" timestamp="1602015981456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602015981456" />
+    <state width="3762" height="713" key="GridCell.Tab.1.right/0.0.3840.2104@0.0.3840.2104" timestamp="1601733376282" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602015447350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602015447350" />
+    <state x="131" y="0" key="new project wizard" timestamp="1601925273424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1601925273424" />
+    <state x="919" y="360" key="new project wizard/0.0.3840.2104@0.0.3840.2104" timestamp="1601644054186" />
+    <state x="470" y="167" key="run.anything.popup" timestamp="1602004143401">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="470" y="167" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602004143401" />
+    <state x="1320" y="484" key="run.anything.popup/0.0.3840.2104@0.0.3840.2104" timestamp="1601731409294" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601932188841">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601932188841" />
+  </component>
+</project>
